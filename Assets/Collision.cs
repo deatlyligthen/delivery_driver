@@ -12,5 +12,6 @@ public class Collision : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Click");
+        Debug.Log("clock");
     }
 }
