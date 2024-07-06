@@ -56,5 +56,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "delivery_driver.sln"
+    "dotnet.defaultSolution": "delivery_driver.sln",
+    "cSpell.words": [
+        "Behaviour"
+    ]
 }
